@@ -1,0 +1,47 @@
+.logo{
+	   width: 1142px;
+
+}
+
+.texte-informatique {
+
+	font-family: arial;
+}
+
+.conteneur{
+	justify-content: center;
+	flex-direction: row;
+}
+.svg{ color: C6C1BF }
+
+
+div{
+	justify-content: flex-end;
+	display: flex;
+	flex-flow: nowrap;
+}
+
+.milieu{  
+}
+
+.barrerecherche{   border-radius: 30px;
+	
+}
+
+footer{
+	display: flex;
+	align-items: flex-end;
+	flex-direction: column;
+	justify-content: flex-start;
+}
+	
+	
+
+section{
+	display: flex;
+	
+}
+
+.boutons{
+
+}
